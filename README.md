@@ -1,4 +1,10 @@
 # Embedded Systems Roadmap to getting a Job in Industry
+The following Roadmap is a work in progress pathway for myself and anyone else to go from 0 to hero in
+Embedded Software Engineering.
+
+The Roadmap is meant to be following step by step, however if you already have the skills needed for any of the steps
+you should skip forward.
+
 ## Main Objectives
 1. Learn C.
 2. Learn Data Structures and Algorithms.
