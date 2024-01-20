@@ -30,7 +30,9 @@ you should skip forward.
     3. Design Patterns for Embedded Systems in C: An Embedded Software Engineering Toolkit by Bruce Powell Douglas.
 
 ## 4. Complete 1 ARM Project
+    TBD
 ## 5. Complete 1 Serious Embedded Project
+    TBD
 ## 6. (OPTIONAL) Improve Mathematical Skills
 * Complete Cambridge A-Levels Course
 * Complete any Universities Mathematical Course for Year 1
