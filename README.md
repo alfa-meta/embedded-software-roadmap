@@ -23,16 +23,16 @@ you should skip forward.
 * Solve 50 Algorithms in Hackerrank
 
 ## 3. Learn Embedded System Design
-* Complete the Modern Embedded Systems Programming Course (https://www.youtube.com/watch?v=hnj-7XwTYRI&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
-* Read an Embedded System Design Book:
-    1. Embedded Software Design: A Practical Approach to Architecture, Processes, and Coding Techniques by Jacob Beningo.
-    2. Making Embedded Systems: Design Patterns for Great Software by Elecia White.
-    3. Design Patterns for Embedded Systems in C: An Embedded Software Engineering Toolkit by Bruce Powell Douglas.
+* Complete Introduction to Computer Architecture course by Arm: [https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit]
+* Complete Internet of Things Course by Arm: [https://github.com/arm-university/Internet-of-Things-Education-Kit]
+* Complete Efficient Systems Design by Arm: [https://github.com/arm-university/Efficient-Embedded-Systems-Design-Education-Kit]
 
 ## 4. Complete 1 ARM Project
-    TBD
+* Complete Rapid Embedded Systems by Arm: [https://github.com/arm-university/Rapid-Embedded-Education-Kit]    
+
 ## 5. Complete 1 Serious Embedded Project
-    TBD
+* Complete Fundamentals of SoC: [https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers]
+
 ## 6. (OPTIONAL) Improve Mathematical Skills
 * Complete Cambridge A-Levels Course
 * Complete any Universities Mathematical Course for Year 1
