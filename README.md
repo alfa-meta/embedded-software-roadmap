@@ -42,8 +42,8 @@ you should skip forward.
 ## Current Progress
 
 |Unit|Task|Date Started|Date Finished|Completed?|
-|----|----|------------|-------------|----------|
-||||||
+|:----:|:----:|:------------:|:-------------:|:----------:|
+| 1  | Learn C | 01/02/24 || x |
 ||||||
 ||||||
 ||||||
