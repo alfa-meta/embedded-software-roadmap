@@ -157,7 +157,7 @@
               return 0;
             }</rich_text>
     </node>
-    <node name="Multidimensional Arrays" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709991265" ts_lastsave="1709992161">
+    <node name="Multidimensional Arrays" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709991265" ts_lastsave="1709991601">
       <rich_text scale="h1">Multidimensional Arrays:</rich_text>
       <rich_text>
 
@@ -184,45 +184,7 @@
       <rich_text family="monospace">grades[1]</rich_text>
       <rich_text>). Complete the following steps so that you can execute this program.
 		
-	Solution:
-			#include &lt;stdio.h&gt;
-
-	int main() {
-		/* TODO: declare the 2D array grades here */
-        int grades[2][5];
-		float average;
-		int i;
-		int j;
-
-		grades[0][0] = 80;
-		grades[0][1] = 70;
-		grades[0][2] = 65;
-		grades[0][3] = 89;
-		grades[0][4] = 90;
-
-		grades[1][0] = 85;
-		grades[1][1] = 80;
-		grades[1][2] = 80;
-		grades[1][3] = 82;
-		grades[1][4] = 87;
-
-		/* TODO: complete the for loop with appropriate terminating conditions */
-		for (i = 0; i &lt; 2; i++) {
-			average = 0;
-			for (j = 0; j &lt; 5; j++) {
-				average += grades[i][j];
-			}
-
-            average /= 5;
-			/* TODO: compute the average marks for subject i */
-			printf("The average marks obtained in subject %d is: %.2f\n", i, average);
-		}
-
-		return 0;
-	}</rich_text>
-    </node>
-    <node name="Conditions" unique_id="11" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709992161" ts_lastsave="1709992168">
-      <rich_text scale="h1">Conditions:</rich_text>
+		</rich_text>
     </node>
   </node>
   <node name="Advanced" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1706820546" ts_lastsave="1706820552">
